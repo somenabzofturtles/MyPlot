@@ -9,7 +9,7 @@ softdepend: [EconomyAPI, PocketMoney]
 
 permissions:
   myplot.command:
-    description: Allows users to use myplot features
+    description: Allows users to use ServerPlots features
     default: true
     children:
       myplot.command.claim:
