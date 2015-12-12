@@ -1,4 +1,4 @@
-name: ServerPlot
+name: ServerPlots
 main: MyPlot\MyPlot
 version: 1.0
 load: STARTUP
